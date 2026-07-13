@@ -12,8 +12,6 @@ These are the primary technical concepts I am actively researching and intend to
 
 -Decentralized Mesh Networking: Researching the routing logic, security implications, and architectural resilience of peer-to-peer mesh networks. The ultimate goal is to build an application focused on secure, alternative local communication infrastructure.
 
--Ghost Syn: A conceptual idea for local network automation, automated infrastructure scripting, and environment testing.
-
 **The Post-Exam Daily Grind
 To maintain absolute accountability, this repository will log my daily progress across three core areas starting mid-June:
 
@@ -38,5 +36,5 @@ Mid-2027: Graduate with a Bachelor of Computer Applications (BCA).
 January 2028: Relocate to Germany for professional cybersecurity operations and research.
 
 **Let's Connect
-GitHub: [@codeviper7](https://github.com/codeviper7)
+GitHub: [@codeviper7](https://github.com/Jattinkumar)
 Looking to connect with security mentors, hardware hackers, and developers building disruptive tech.*
