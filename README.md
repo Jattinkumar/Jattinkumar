@@ -27,4 +27,4 @@ My goal is to understand exactly how data flows across a network and how to secu
 * Secure a core engineering role at a global technology firm and transition into advanced international cybersecurity operations.
 
 ### Contact
-* LinkedIn: https://www.linkedin.com/in/jattin-chauhan-61b0422b5/
+* LinkedIn: https://www.linkedin.com/in/jattin-kumar-61b0422b5/
